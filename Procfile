@@ -1,1 +1,1 @@
-web: python flybot_main.py
+web: python bot_main.py
