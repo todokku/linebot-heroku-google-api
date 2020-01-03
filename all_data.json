@@ -1,0 +1,23 @@
+[
+    {
+        "country": "US",
+        "location": "TX",
+        "name": "University of Texas",
+        "url": "https://ece.utdallas.edu/ece/admissions/graduate-programs/telecommunications-engineering/"
+    },
+    {
+        "country": "US",
+        "location": "CA",
+        "name": "University of California",
+        "url": ""
+    },
+    {
+        "country": "UK",
+        "location": "L",
+        "name": "NLU",
+        "branch": "London",
+        "tuition": "33,000",
+        "program": "CS",
+        "url": ""
+    }
+]

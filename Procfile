@@ -1,0 +1,1 @@
+web: python flybot_main.py
